@@ -11,7 +11,6 @@
 - 🚀 Building **production-ready GenAI applications** using LangChain, LangGraph, and FastAPI
 - 🔍 Currently focusing on **Agentic AI frameworks** and **Enterprise-grade RAG** architectures
 - 🎤 Hosting webinars & workshops on **Prompt Engineering** and **Agent-based LLM systems**
-- 🌐 Collaborating with startups via [Turing.com](https://www.turing.com/) and contributing to open-source
 
 ---
 
